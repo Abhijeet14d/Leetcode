@@ -1,1 +1,2 @@
 Hello, this is just a random file.
+This is second line of text.
